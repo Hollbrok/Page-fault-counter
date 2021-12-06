@@ -11,6 +11,7 @@ Don't pay too much attention to this code, because there is a lot of __shitcode_
 
 ```console
 make
+cd Page-fault-counter/
 ./a __PROC_ALLOC_FRAMES__ [queue of frames]
 ```
 
