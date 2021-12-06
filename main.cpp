@@ -1,7 +1,4 @@
- 
-// CPP program to demonstrate optimal page
-// replacement algorithm.
-#include <bits/stdc++.h>
+ #include <bits/stdc++.h>
 #include <queue>
 #include <deque>
 #include <algorithm>
