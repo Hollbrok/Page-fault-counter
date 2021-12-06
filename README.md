@@ -24,4 +24,4 @@ There is __3__ -- number of frames allocated to the process.
 
 So there you can see example of output:
 
-![output](https://github.com/Hollbrok/System-Programming/blob/master/Page%20Fault%20counter/out_example.png?raw=true)
+![output](https://github.com/Hollbrok/Page-fault-counter/blob/main/out_example.png?raw=true)
