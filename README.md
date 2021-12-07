@@ -10,8 +10,9 @@ Don't pay too much attention to this code, because there is a lot of __shitcode_
 # Hot to use
 
 ```console
-make
+git clone https://github.com/Hollbrok/Page-fault-counter.git
 cd Page-fault-counter/
+make
 ./a __PROC_ALLOC_FRAMES__ [queue of frames]
 ```
 
